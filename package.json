@@ -61,21 +61,21 @@
   },
   "homepage": "https://veza.js.org",
   "devDependencies": {
-    "@istanbuljs/nyc-config-typescript": "^0.1.3",
+    "@istanbuljs/nyc-config-typescript": "^1.0.0",
     "@types/node": "^13.1.6",
-    "@types/tape": "^4.2.33",
+    "@types/tape": "^4.13.0",
     "@typescript-eslint/eslint-plugin": "^1.13.0",
     "@typescript-eslint/parser": "^1.13.0",
     "eslint": "^6.8.0",
     "eslint-config-bamboo": "^2.0.0",
-    "nyc": "^14.1.1",
+    "nyc": "^15.1.0",
     "source-map-support": "^0.5.16",
     "tap-nyc": "^1.0.3",
     "tap-xunit": "^2.4.1",
     "tape": "^5.2.2",
     "ts-node": "^8.5.4",
     "typedoc": "^0.14.2",
-    "typescript": "^3.7.4"
+    "typescript": "^3.9.9"
   },
   "dependencies": {
     "binarytf": "^2.0.0"

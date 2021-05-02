@@ -6,7 +6,9 @@ export * from './lib/ClientSocket';
 export {
 	SendOptions,
 	BroadcastOptions,
-	NetworkError
+	NetworkError,
+	Server,
+	NodeMessage
 } from './lib/Util/Shared';
 
 /**

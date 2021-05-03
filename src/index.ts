@@ -8,7 +8,9 @@ export {
 	BroadcastOptions,
 	NetworkError,
 	Server,
-	NodeMessage
+	NodeMessage,
+	ClientSocket,
+	Client
 } from './lib/Util/Shared';
 
 /**
